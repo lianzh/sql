@@ -1,2 +1,3 @@
 # sql
-simple sql query lib for php 5.8
+a light sql query lib for php5.4
+

@@ -1,0 +1,30 @@
+{
+    "name": "lianzh/sql",
+    "description": "a light sql query lib for php5.4",
+    "keywords": ["sql", "php"],
+    "license": "Apache License Version 2.0",
+    "homepage": "https://github.com/lianzh/sql",
+    "support": {
+        "issues": "https://github.com/lianzh/sql/issues",
+        "source": "https://github.com/lianzh/sql"
+    },
+    "authors": [
+        {
+            "name": "toohamster",
+            "email": "449211678@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "ext-mbstring": "*"        
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "classmap": [],
+        "files": [],
+        "psr-4": {"Lianzh\\Sql\\": "src"}
+    },
+    "minimum-stability": "dev"
+}
