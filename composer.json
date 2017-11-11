@@ -24,7 +24,7 @@
     "autoload": {
         "classmap": [],
         "files": [],
-        "psr-4": {"Lianzh\\Sql\\": "src"}
+        "psr-4": {"LianzhSQL\\": "src"}
     },
     "minimum-stability": "dev"
 }
