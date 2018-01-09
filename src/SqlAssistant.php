@@ -41,13 +41,12 @@ class SqlAssistant
 	/**
 	 * 解析查询条件
 	 * 
-	 * @param  SqlDataSource  $ds
 	 * @param  mixed  $cond
 	 * @param  boolean  $dash
 	 * 
 	 * @return string
 	 */
-	public function cond(SqlDataSource $ds, $cond, $dash=false)
+	public function cond($cond, $dash=false)
 	{
 		$ds = $this->ds();
 		return SqlHelper::parse_cond($ds, $cond, $dash);
