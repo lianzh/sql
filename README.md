@@ -2,7 +2,7 @@
 a light sql query lib for php.
 
 
-## Make the best PHP database operation class 
+## Make the best PHP database operation lib 
 
  * Simple and understandable source code 
  * Simple configuration, easy to use 

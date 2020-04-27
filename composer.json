@@ -1,6 +1,6 @@
 {
     "name": "lianzh/sql",
-    "description": "a light sql query lib for php5.4",
+    "description": "Make the best PHP database operation lib",
     "keywords": ["sql", "php"],
     "license": "Apache License Version 2.0",
     "homepage": "https://github.com/lianzh/sql",
