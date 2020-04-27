@@ -2,4 +2,6 @@
 
 namespace LianzhSQL;
 
-class SqlError extends \Exception {}
+class SqlError extends \Exception
+{
+}
